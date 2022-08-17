@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/layout_update_profile.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/layout/update_profile.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable_instalogo.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable/instalogo.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable_instagramicon.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable/instagramicon.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/layout_user_profile.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/layout/user_profile.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable_plainiinstalogo.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable/plainiinstalogo.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable_avatar.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable/avatar.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/font_cantora_one.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/font/cantora_one.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/layout_user_matches.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/layout/user_matches.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable_ic_baseline_house_24.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable/ic_baseline_house_24.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/layout_logindesign.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/layout/logindesign.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/benscobie/Documents/Uni/Flatty/app/build/intermediates/res/merged/debug/layout_registration.xml.flat",
+        "source": "/Users/benscobie/Documents/Uni/Flatty/app/src/main/res/layout/registration.xml"
+    }
+]

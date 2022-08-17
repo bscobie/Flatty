@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="nz.ac.otago.flatty"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:6:5-78
+12-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:8:5-31:19
+15        android:allowBackup="true"
+15-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:13:9-35
+23        android:theme="@style/Theme.Flatty"
+23-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:15:9-44
+24        android:usesCleartextTraffic="true" >
+24-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:14:9-44
+25        <activity
+25-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:16:9-22:20
+26            android:name="nz.ac.otago.flatty.MainActivity"
+26-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:16:19-47
+27            android:screenOrientation="portrait" >
+27-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:16:48-84
+28            <intent-filter>
+28-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:17:13-21:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:18:17-69
+29-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:18:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:20:17-77
+31-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:20:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:23:9-94
+35            android:name="nz.ac.otago.flatty.RegistrationActivity"
+35-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:23:19-55
+36            android:screenOrientation="portrait" />
+36-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:23:56-92
+37        <activity
+37-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:24:9-90
+38            android:name="nz.ac.otago.flatty.HomePageActivity"
+38-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:24:19-51
+39            android:screenOrientation="portrait" />
+39-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:24:52-88
+40        <activity
+40-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:25:9-95
+41            android:name="nz.ac.otago.flatty.UpdateProfileActivity"
+41-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:25:19-56
+42            android:screenOrientation="portrait" />
+42-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:25:57-93
+43        <activity
+43-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:26:9-89
+44            android:name="nz.ac.otago.flatty.MatchesActivity"
+44-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:26:19-50
+45            android:screenOrientation="portrait" />
+45-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:26:51-87
+46        <activity
+46-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:27:9-93
+47            android:name="nz.ac.otago.flatty.UserProfileActivity"
+47-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:27:19-54
+48            android:screenOrientation="portrait" />
+48-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:27:55-91
+49
+50        <meta-data
+50-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:28:9-30:57
+51            android:name="preloaded_fonts"
+51-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:29:13-43
+52            android:resource="@array/preloaded_fonts" />
+52-->/Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:30:13-54
+53
+54        <provider
+54-->[com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+55            android:name="com.squareup.picasso.PicassoProvider"
+55-->[com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+56            android:authorities="nz.ac.otago.flatty.com.squareup.picasso"
+56-->[com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+57            android:exported="false" />
+57-->[com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+58    </application>
+59
+60</manifest>

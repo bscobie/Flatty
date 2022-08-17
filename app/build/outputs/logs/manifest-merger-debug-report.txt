@@ -1,0 +1,284 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6e17e0affbe3f6e16a012099e7f75766/databinding-adapters-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/454c12581fe40a8d960b9fb3e1d175cb/databinding-runtime-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.0-alpha05] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0460b9f14dd62cd0e65b9b4a4d32138c/material-1.2.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d0875d88d3e0665c71d596237b1d5610/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0e9d4799817e9a3b8673d08996027bef/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.yuyakaido.android:card-stack-view:2.3.4] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/b619330a57b0d176582a1d5f47a761a1/jetified-card-stack-view-2.3.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/440712a6a4d69a1621ad315fcbb17b12/jetified-fresco-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fcfee4a61ee0d2159771601d824ca0b7/jetified-viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/8f837393fdd4b9e691f9b2bd15c6dd3f/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0342a020bb589b956d75f615df65a0d3/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1c6f68e8f073dd1950a336443f0996f5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/70a99e5916f70b50a1c2d7561f5875cb/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/9d5a096acb6267170c16e183e97d20f9/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1283507c31b32c36f684002cbc68c76c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/8ed3cf72a54075b96af3b8336314e7f4/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/5ffbf4c0a75ea42cb60e779b5ecdf9ee/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/ab1086125055a14b8ffb01a4a54d7767/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1fffcc61392d63a8a4ff5fa135981918/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/ffc975a82aeb1c6eb1e48e024531c004/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7a1b1b5a63785c8b560b7bbf7a1195dd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/050ddbecb6aaf1c6b43f57752c42e44d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d47cb692b9d4da2d0dd9f2a9f825fd1b/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/12d8faecc97d6cf03b537c9ac9b3dd01/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/032cd7bba88befefcb5cd0b5fde4a859/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/36f8a7a5d53e0a4bb171b053d9dfb009/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6366012cbacde97cbe9b4d7ef20e45a4/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/66e8ea9aad5086db56ad3bfe5a07e697/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/4d341e445012c23d9c4b3d1c90b50a06/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/2dcda67ca9e709e3340acf9a68afeebe/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/74acb8c50e76ce96a9bff0e2b9545ccf/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6fb8ada5df4707d49a208c7e25db7d93/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fa2322a024966dbef3124d404b783bc1/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/c40fc250dc3140be51aaeb026249493a/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:drawee:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1ad3485e003745feb98fd11e3da2f2d9/jetified-drawee-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/aed982d0c86cfa098ded38d281311f46/jetified-nativeimagefilters-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6215d0c9a509d4117b162948bd50b847/jetified-memory-type-native-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/837daea653846fbb70af48517515d97d/jetified-memory-type-java-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6bd0a30ee80f82d7537e7b4a66d24eec/jetified-imagepipeline-native-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fe0117dd9d8b81738516bfd383fae0ea/jetified-memory-type-ashmem-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/9641d28594096f23cd1e01a479f02357/jetified-imagepipeline-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0095a21a7b212f50d878856757c27d95/jetified-nativeimagetranscoder-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/cbcec230efd242165572398fdf176745/jetified-soloader-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/53cbb64b435ab56f2ca2792965c28f6b/jetified-imagepipeline-base-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6c990e5e19377c62e610b076ce7e339e/jetified-fbcore-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/a9c943c1fff1e05544e761407e2a5f40/jetified-soloader-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:ui-common:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d6e3dc710b72a5eb82917d9e05601f30/jetified-ui-common-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0f4ff055081a13b79e08927315730249/jetified-annotation-0.8.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from [com.google.android.material:material:1.2.0-alpha05] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0460b9f14dd62cd0e65b9b4a4d32138c/material-1.2.0-alpha05/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha05] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0460b9f14dd62cd0e65b9b4a4d32138c/material-1.2.0-alpha05/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0e9d4799817e9a3b8673d08996027bef/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0e9d4799817e9a3b8673d08996027bef/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/12d8faecc97d6cf03b537c9ac9b3dd01/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/12d8faecc97d6cf03b537c9ac9b3dd01/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/a9c943c1fff1e05544e761407e2a5f40/jetified-soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/a9c943c1fff1e05544e761407e2a5f40/jetified-soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0f4ff055081a13b79e08927315730249/jetified-annotation-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0f4ff055081a13b79e08927315730249/jetified-annotation-0.8.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:15:9-44
+	android:usesCleartextTraffic
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:14:9-44
+activity#nz.ac.otago.flatty.MainActivity
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:screenOrientation
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:16:48-84
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:20:27-74
+activity#nz.ac.otago.flatty.RegistrationActivity
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:23:9-94
+	android:screenOrientation
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:23:56-92
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:23:19-55
+activity#nz.ac.otago.flatty.HomePageActivity
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:24:9-90
+	android:screenOrientation
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:24:52-88
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:24:19-51
+activity#nz.ac.otago.flatty.UpdateProfileActivity
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:25:9-95
+	android:screenOrientation
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:25:57-93
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:25:19-56
+activity#nz.ac.otago.flatty.MatchesActivity
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:26:9-89
+	android:screenOrientation
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:26:51-87
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:26:19-50
+activity#nz.ac.otago.flatty.UserProfileActivity
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:27:9-93
+	android:screenOrientation
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:27:55-91
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:27:19-54
+meta-data#preloaded_fonts
+ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:28:9-30:57
+	android:resource
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml:29:13-43
+uses-sdk
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6e17e0affbe3f6e16a012099e7f75766/databinding-adapters-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6e17e0affbe3f6e16a012099e7f75766/databinding-adapters-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/454c12581fe40a8d960b9fb3e1d175cb/databinding-runtime-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/454c12581fe40a8d960b9fb3e1d175cb/databinding-runtime-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha05] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0460b9f14dd62cd0e65b9b4a4d32138c/material-1.2.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha05] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0460b9f14dd62cd0e65b9b4a4d32138c/material-1.2.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d0875d88d3e0665c71d596237b1d5610/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d0875d88d3e0665c71d596237b1d5610/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0e9d4799817e9a3b8673d08996027bef/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0e9d4799817e9a3b8673d08996027bef/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.yuyakaido.android:card-stack-view:2.3.4] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/b619330a57b0d176582a1d5f47a761a1/jetified-card-stack-view-2.3.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yuyakaido.android:card-stack-view:2.3.4] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/b619330a57b0d176582a1d5f47a761a1/jetified-card-stack-view-2.3.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/440712a6a4d69a1621ad315fcbb17b12/jetified-fresco-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/440712a6a4d69a1621ad315fcbb17b12/jetified-fresco-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fcfee4a61ee0d2159771601d824ca0b7/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fcfee4a61ee0d2159771601d824ca0b7/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/8f837393fdd4b9e691f9b2bd15c6dd3f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/8f837393fdd4b9e691f9b2bd15c6dd3f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0342a020bb589b956d75f615df65a0d3/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0342a020bb589b956d75f615df65a0d3/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1c6f68e8f073dd1950a336443f0996f5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1c6f68e8f073dd1950a336443f0996f5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/70a99e5916f70b50a1c2d7561f5875cb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/70a99e5916f70b50a1c2d7561f5875cb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/9d5a096acb6267170c16e183e97d20f9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/9d5a096acb6267170c16e183e97d20f9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1283507c31b32c36f684002cbc68c76c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1283507c31b32c36f684002cbc68c76c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/8ed3cf72a54075b96af3b8336314e7f4/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/8ed3cf72a54075b96af3b8336314e7f4/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/5ffbf4c0a75ea42cb60e779b5ecdf9ee/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/5ffbf4c0a75ea42cb60e779b5ecdf9ee/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/ab1086125055a14b8ffb01a4a54d7767/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/ab1086125055a14b8ffb01a4a54d7767/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1fffcc61392d63a8a4ff5fa135981918/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1fffcc61392d63a8a4ff5fa135981918/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/ffc975a82aeb1c6eb1e48e024531c004/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/ffc975a82aeb1c6eb1e48e024531c004/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7a1b1b5a63785c8b560b7bbf7a1195dd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7a1b1b5a63785c8b560b7bbf7a1195dd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/050ddbecb6aaf1c6b43f57752c42e44d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/050ddbecb6aaf1c6b43f57752c42e44d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/7ebfd9bf1633b2377760a9712ae6edf4/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d47cb692b9d4da2d0dd9f2a9f825fd1b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d47cb692b9d4da2d0dd9f2a9f825fd1b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/12d8faecc97d6cf03b537c9ac9b3dd01/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/12d8faecc97d6cf03b537c9ac9b3dd01/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/032cd7bba88befefcb5cd0b5fde4a859/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/032cd7bba88befefcb5cd0b5fde4a859/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/36f8a7a5d53e0a4bb171b053d9dfb009/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/36f8a7a5d53e0a4bb171b053d9dfb009/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6366012cbacde97cbe9b4d7ef20e45a4/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6366012cbacde97cbe9b4d7ef20e45a4/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/66e8ea9aad5086db56ad3bfe5a07e697/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/66e8ea9aad5086db56ad3bfe5a07e697/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/4d341e445012c23d9c4b3d1c90b50a06/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/4d341e445012c23d9c4b3d1c90b50a06/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/2dcda67ca9e709e3340acf9a68afeebe/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/2dcda67ca9e709e3340acf9a68afeebe/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/74acb8c50e76ce96a9bff0e2b9545ccf/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/74acb8c50e76ce96a9bff0e2b9545ccf/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6fb8ada5df4707d49a208c7e25db7d93/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6fb8ada5df4707d49a208c7e25db7d93/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fa2322a024966dbef3124d404b783bc1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fa2322a024966dbef3124d404b783bc1/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/c40fc250dc3140be51aaeb026249493a/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/c40fc250dc3140be51aaeb026249493a/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:drawee:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1ad3485e003745feb98fd11e3da2f2d9/jetified-drawee-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/1ad3485e003745feb98fd11e3da2f2d9/jetified-drawee-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/aed982d0c86cfa098ded38d281311f46/jetified-nativeimagefilters-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/aed982d0c86cfa098ded38d281311f46/jetified-nativeimagefilters-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6215d0c9a509d4117b162948bd50b847/jetified-memory-type-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6215d0c9a509d4117b162948bd50b847/jetified-memory-type-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/837daea653846fbb70af48517515d97d/jetified-memory-type-java-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/837daea653846fbb70af48517515d97d/jetified-memory-type-java-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6bd0a30ee80f82d7537e7b4a66d24eec/jetified-imagepipeline-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6bd0a30ee80f82d7537e7b4a66d24eec/jetified-imagepipeline-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fe0117dd9d8b81738516bfd383fae0ea/jetified-memory-type-ashmem-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/fe0117dd9d8b81738516bfd383fae0ea/jetified-memory-type-ashmem-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/9641d28594096f23cd1e01a479f02357/jetified-imagepipeline-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/9641d28594096f23cd1e01a479f02357/jetified-imagepipeline-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0095a21a7b212f50d878856757c27d95/jetified-nativeimagetranscoder-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0095a21a7b212f50d878856757c27d95/jetified-nativeimagetranscoder-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/cbcec230efd242165572398fdf176745/jetified-soloader-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/cbcec230efd242165572398fdf176745/jetified-soloader-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/53cbb64b435ab56f2ca2792965c28f6b/jetified-imagepipeline-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/53cbb64b435ab56f2ca2792965c28f6b/jetified-imagepipeline-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6c990e5e19377c62e610b076ce7e339e/jetified-fbcore-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/6c990e5e19377c62e610b076ce7e339e/jetified-fbcore-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/a9c943c1fff1e05544e761407e2a5f40/jetified-soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/a9c943c1fff1e05544e761407e2a5f40/jetified-soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:ui-common:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d6e3dc710b72a5eb82917d9e05601f30/jetified-ui-common-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.1.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d6e3dc710b72a5eb82917d9e05601f30/jetified-ui-common-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0f4ff055081a13b79e08927315730249/jetified-annotation-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/0f4ff055081a13b79e08927315730249/jetified-annotation-0.8.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		ADDED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/benscobie/Documents/Uni/Flatty/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/benscobie/.gradle/caches/transforms-2/files-2.1/d1adc31c6df88e3b5e926641fafe451d/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64

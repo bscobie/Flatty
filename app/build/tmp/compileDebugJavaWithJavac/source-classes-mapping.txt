@@ -1,0 +1,56 @@
+nz/ac/otago/flatty/DataBindingTriggerClass.java
+ nz.ac.otago.flatty.DataBindingTriggerClass
+nz/ac/otago/flatty/AccountActivity.java
+ nz.ac.otago.flatty.AccountActivity
+nz/ac/otago/flatty/UserProfileActivity.java
+ nz.ac.otago.flatty.UserProfileActivity
+ nz.ac.otago.flatty.UserProfileActivity$1
+ nz.ac.otago.flatty.UserProfileActivity$2
+ nz.ac.otago.flatty.UserProfileActivity$3
+ nz.ac.otago.flatty.UserProfileActivity$4
+nz/ac/otago/flatty/RegistrationActivity.java
+ nz.ac.otago.flatty.RegistrationActivity
+ nz.ac.otago.flatty.RegistrationActivity$1
+nz/ac/otago/flatty/HomePageActivity.java
+ nz.ac.otago.flatty.HomePageActivity
+ nz.ac.otago.flatty.HomePageActivity$1
+ nz.ac.otago.flatty.HomePageActivity$2
+ nz.ac.otago.flatty.HomePageActivity$3
+ nz.ac.otago.flatty.HomePageActivity$4
+ nz.ac.otago.flatty.HomePageActivity$5
+ nz.ac.otago.flatty.HomePageActivity$6
+nz/ac/otago/flatty/domain/Matched.java
+ nz.ac.otago.flatty.domain.Matched
+nz/ac/otago/flatty/MainActivity.java
+ nz.ac.otago.flatty.MainActivity
+nz/ac/otago/flatty/dao/MatchedDAO.java
+ nz.ac.otago.flatty.dao.MatchedDAO
+nz/ac/otago/flatty/dao/DetailsDAO.java
+ nz.ac.otago.flatty.dao.DetailsDAO
+nz/ac/otago/flatty/BuildConfig.java
+ nz.ac.otago.flatty.BuildConfig
+nz/ac/otago/flatty/dao/DbConnection.java
+ nz.ac.otago.flatty.dao.DbConnection
+nz/ac/otago/flatty/domain/Details.java
+ nz.ac.otago.flatty.domain.Details
+nz/ac/otago/flatty/UpdateProfileActivity.java
+ nz.ac.otago.flatty.UpdateProfileActivity
+ nz.ac.otago.flatty.UpdateProfileActivity$1
+ nz.ac.otago.flatty.UpdateProfileActivity$1$1
+ nz.ac.otago.flatty.UpdateProfileActivity$2
+ nz.ac.otago.flatty.UpdateProfileActivity$3
+ nz.ac.otago.flatty.UpdateProfileActivity$4
+ nz.ac.otago.flatty.UpdateProfileActivity$5
+ nz.ac.otago.flatty.UpdateProfileActivity$6
+ nz.ac.otago.flatty.UpdateProfileActivity$7
+ nz.ac.otago.flatty.UpdateProfileActivity$8
+nz/ac/otago/flatty/MatchesActivity.java
+ nz.ac.otago.flatty.MatchesActivity
+ nz.ac.otago.flatty.MatchesActivity$1
+ nz.ac.otago.flatty.MatchesActivity$2
+ nz.ac.otago.flatty.MatchesActivity$3
+ nz.ac.otago.flatty.MatchesActivity$4
+nz/ac/otago/flatty/dao/AccountsDAO.java
+ nz.ac.otago.flatty.dao.AccountsDAO
+nz/ac/otago/flatty/domain/Accounts.java
+ nz.ac.otago.flatty.domain.Accounts
